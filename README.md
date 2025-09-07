@@ -38,5 +38,5 @@ A full-stack chatbot application that enables users to **upload PDF documents**,
 
 ---
 
-## 📦 Project Structure
+
 
