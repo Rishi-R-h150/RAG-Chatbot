@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Python
+backend/python/venv/
+
+# Environment variables
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+*.pdf
